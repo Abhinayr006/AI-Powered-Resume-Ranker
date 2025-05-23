@@ -22,7 +22,7 @@ Resume Analyzer is a Flask web application that ranks uploaded resumes based on 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abhinayr006/AI-Powered-Resume-Ranker>
    cd resume-ranker-main
    ```
 
@@ -59,6 +59,10 @@ By default, the app will run in debug mode on `http://127.0.0.1:5000/`.
 
 1. Open your web browser and go to `http://127.0.0.1:5000/`.
 2. Enter the job description in the provided text area.
+   For example:
+   ```bash
+   Computer Vision, Image Processing, Reinforcement Learning, TensorFlow, Data Visualization, Statistical Analysis
+   ```
 3. Upload one or more PDF resumes using the file upload input.
 4. Click the "Analyze Resumes" button.
 5. The ranked resumes will be displayed in a table showing rank, name, email, and similarity percentage.
@@ -81,10 +85,6 @@ By default, the app will run in debug mode on `http://127.0.0.1:5000/`.
 - Uploaded resumes are saved in the `uploads/` folder; ensure this folder has appropriate permissions.
 - The app currently supports PDF resumes only.
 - The dark mode toggle is available in the UI, but ensure the corresponding CSS files are present or adjust as needed.
-
-## License
-
-This project is open source and available under the MIT License.
 
 ---
 
