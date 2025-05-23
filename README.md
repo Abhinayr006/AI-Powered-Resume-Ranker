@@ -22,7 +22,7 @@ Resume Analyzer is a Flask web application that ranks uploaded resumes based on 
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Abhinayr006/AI-Powered-Resume-Ranker>
+   git clone <https://github.com/Abhinayr006/AI-Powered-Resume-Ranker.git>
    cd resume-ranker-main
    ```
 
