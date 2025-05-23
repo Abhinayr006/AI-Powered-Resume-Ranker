@@ -88,4 +88,6 @@ By default, the app will run in debug mode on `http://127.0.0.1:5000/`.
 
 ---
 
+## Report File has also been attached in folder.
+
 Feel free to contribute or raise issues on the GitHub repository.
