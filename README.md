@@ -68,6 +68,10 @@ By default, the app will run in debug mode on `http://127.0.0.1:5000/`.
 5. The ranked resumes will be displayed in a table showing rank, name, email, and similarity percentage.
 6. You can download the ranked results as a CSV file by clicking the "Download CSV" link.
 
+## Sample Output
+
+1. ![image alt](https://github.com/Abhinayr006/AI-Powered-Resume-Ranker/blob/0856225616e419745615f2e31b27eae2a4acdd33/ScreenShots/ScreenShot2.png)
+
 ## File Structure
 
 - `main_app.py`: Main Flask application file containing routes and logic.
